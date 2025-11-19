@@ -3,22 +3,22 @@ import React from "react";
 function Projects() {
   const projectList = [
     {
-      title: "Portfolio Website",
-      description: "A personal portfolio website built with ReactJS and TailwindCSS.",
+      title: "Online Food Delivery Website",
+      description: "Built a responsive and performance-optimized web app that allows users to order food online and track delivery status in real time",
       link: "https://github.com/Maskcop/PortFolio2.git",
-      image: "download.jpeg", // replace with your actual image
+      image: "Food Delivery website.png", // replace with your actual image
     },
     {
-      title: "E-commerce App",
-      description: "A fully functional e-commerce application with ReactJS and Firebase.",
+      title: "Job Portal Website",
+      description: "A platform that connects job seekers with Recruiter for easy apply job applications and hiring process.",
+      link: "https://github.com/Maskcop/clothbrand-website.git",
+      image: "jobporatl.jpg",
+    },
+    {
+      title: "Online Cloth Shopping Website",
+      description: "A weather forecasting app using OpenWeatherMap API and ReactJS.",
       link: "https://github.com/Maskcop/clothbrand-website.git",
       image: "E-Commerce.jpg",
-    },
-    {
-      title: "Weather App",
-      description: "A weather forecasting app using OpenWeatherMap API and ReactJS.",
-      link: "https://github.com/your-username/weather-app",
-      image: "Weather.webp",
     },
   ];
 
