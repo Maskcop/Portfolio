@@ -7,7 +7,7 @@ const projects = [
     description: "Built a responsive and performance-optimized web app that allows users to order food online and track delivery status in real time",
     image: "/projects/FoodDelivery.png",
     tags: ["React", "Node.js", "Express", "MySQL","Firebase","TailwindCSS"],
-    demoUrl: "#",
+    demoUrl: "https://food-delivery-website-1-xrp2.onrender.com/",
     githubUrl: "#",
   },
   {
