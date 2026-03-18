@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/FoodDelivery.png",
     tags: ["React", "Node.js", "Express", "MySQL","Firebase","TailwindCSS"],
     demoUrl: "https://food-delivery-website-1-xrp2.onrender.com/",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Maskcop/Portfolio.git",
   },
   {
     id: 2,
